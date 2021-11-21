@@ -1,0 +1,35 @@
+Panduan buat repo baru : 
+buat repo local file (edit kalau mau pake framework or library through cmd) 
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main //kalau mau buat branch  
+git remote add origin https://github.com/irenemariajoseph/halo.git <- contoh 
+git push origin master // push master 
+git push -u origin main
+
+
+
+
+
+
+
+Panduan push KP : 
+1. new local branch 
+gir branch 
+git checkout -b (namabranch)
+
+2.add perubahan 
+git status 
+
+3. commit 
+git commit -a -m "Change titles and styling on homepage"
+
+4. push
+git push --set-upstream origin(namabranch) 
+
+5. pull req 
+contoh -> https://github.com/irenemariajoseph/MobAppBackEnd/pull/new/changeemail-e ( sblm pull req) 
+contoh -> https://github.com/irenemariajoseph/MobAppBackEnd/pull/5 ( stlh ) 
+
+buka linknya, createpull req 
