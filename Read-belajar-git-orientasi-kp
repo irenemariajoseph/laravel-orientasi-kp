@@ -9,11 +9,6 @@ git push origin master // push master
 git push -u origin main
 
 
-
-
-
-
-
 Panduan push KP : 
 1. new local branch 
 gir branch 
